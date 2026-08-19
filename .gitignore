@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+best_qa_qwen*/
+best_classification_bert*/
+
+*.zip
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+.cometml-runs/
+comet files/
